@@ -16,7 +16,7 @@
 
 <img width="800" alt="图5" src="https://github.com/user-attachments/assets/577e821f-1380-4bc9-97eb-a85c406ce449" />
 
-<img width="800" alt="噬菌体" src="https://github.com/user-attachments/assets/cfc57ee5-a5d8-4b80-9a7b-99e96fc7452b" />
+<img width="400" alt="噬菌体" src="https://github.com/user-attachments/assets/cfc57ee5-a5d8-4b80-9a7b-99e96fc7452b" />
 
 <img width="800" alt="图6" src="https://github.com/user-attachments/assets/fb9ff671-6bb4-40c9-ab3c-8f9c299e44e3" />
 
