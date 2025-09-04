@@ -6,7 +6,8 @@
 
 （注：一下图片来源于网络查找或期刊收集）
 
-![图1](https://github.com/user-attachments/assets/642c32b8-47ab-4f7d-ae22-f19ef21a98ed)
+<img width="800" alt="图1" src="https://github.com/user-attachments/assets/642c32b8-47ab-4f7d-ae22-f19ef21a98ed" />
+
 
 ![图2](https://github.com/user-attachments/assets/1cc5cf57-2b99-4936-99a4-d50da0e79718)
 
