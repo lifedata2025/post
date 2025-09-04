@@ -1,6 +1,6 @@
 # Adobe illustrator：非常好用的科研绘图工具
 
-## 本人长期承接各类 AI(Adobe Illustrator) 科研绘图服务，欢迎联系：ranshan567@outlook.com。
+**本人长期承接各类 AI(Adobe Illustrator) 科研绘图服务，欢迎联系：ranshan567@outlook.com。**
 
 ## 好看的 Adobe illustrator 科研绘图参考：
 
@@ -9,7 +9,7 @@
 <img width="800" alt="图1" src="https://github.com/user-attachments/assets/642c32b8-47ab-4f7d-ae22-f19ef21a98ed" />
 
 
-![图2](https://github.com/user-attachments/assets/1cc5cf57-2b99-4936-99a4-d50da0e79718)
+<img width="800" alt="图2" src="https://github.com/user-attachments/assets/1cc5cf57-2b99-4936-99a4-d50da0e79718" />
 
 <img width="804" height="568" alt="图3" src="https://github.com/user-attachments/assets/de6fa54f-dd4f-4046-bff4-762dd09dbe56" />
 
