@@ -1,4 +1,4 @@
-<img width="765" height="1092" alt="图片" src="https://github.com/user-attachments/assets/cfc57ee5-a5d8-4b80-9a7b-99e96fc7452b" /># Adobe illustrator：非常好用的科研绘图工具
+# Adobe illustrator：非常好用的科研绘图工具
 
 ## 本人长期承接各类 AI(Adobe Illustrator) 科研绘图服务，欢迎联系：ranshan567@outlook.com。
 
@@ -14,11 +14,9 @@
 
 <img width="1046" height="425" alt="图4" src="https://github.com/user-attachments/assets/2c41cce4-af8f-4840-8390-cf4ff59cd7fa" />
 
-![Uploading 图5.png…]()
-
 <img width="1080" height="636" alt="图片" src="https://github.com/user-attachments/assets/577e821f-1380-4bc9-97eb-a85c406ce449" />
 
-![Uploading 噬菌体.png…]()
+<img width="765" height="1092" alt="噬菌体" src="https://github.com/user-attachments/assets/cfc57ee5-a5d8-4b80-9a7b-99e96fc7452b" />
 
 <img width="996" height="996" alt="d640715689e3eaca403a395df6812dc4" src="https://github.com/user-attachments/assets/fb9ff671-6bb4-40c9-ab3c-8f9c299e44e3" />
 
