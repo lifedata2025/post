@@ -48,6 +48,7 @@
 
 <img width="800" alt="图片18" src="https://github.com/user-attachments/assets/35aee739-2b62-411a-b343-b9a3561e4ea9" />
 
+<img width="800" alt="图片" title="Figure 19" src="https://github.com/user-attachments/assets/9471b347-27b2-48be-aea9-9836b4d4be47" />
 
 
 
