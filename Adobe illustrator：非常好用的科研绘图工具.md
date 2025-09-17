@@ -64,7 +64,7 @@
 
 <img width="800" alt="图片" title="Figure 28" src="https://github.com/user-attachments/assets/d46d0c41-e52b-4047-80af-c251a3196857" />
 
-<img width="800" alt="图片" title="Figure 29" src="https://github.com/user-attachments/assets/0cb304ca-ac13-4820-89f6-49931f108e5e" />
+<img width="800" alt="图片" title="Figure 29" src="https://github.com/user-attachments/assets/b0a20ee8-6bc0-4ff3-b053-ec2e151e498a" />
 
 <img width="800" alt="图片" title="Figure 30" src="https://github.com/user-attachments/assets/8ef0cb99-032e-4a24-8b91-61d868dd3b19" />
 
