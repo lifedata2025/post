@@ -1,6 +1,6 @@
 # Adobe illustrator：非常好用的科研绘图工具
 
-**本人长期承接各类 AI(Adobe Illustrator) 科研绘图服务，欢迎联系：lifedata@qq.com。**
+**我们长期承接各类 AI(Adobe Illustrator) 科研绘图服务，欢迎联系：lifedata@qq.com。**
 
 ---
 
@@ -70,4 +70,4 @@
 
 ---
 
-**本人长期承接各类 AI(Adobe Illustrator) 科研绘图服务，欢迎联系：lifedata@qq.com。**
+**我们长期承接各类 AI(Adobe Illustrator) 科研绘图服务，欢迎联系：lifedata@qq.com。**
