@@ -30,9 +30,9 @@
 
 <img width="800" alt="图" title="Figure 11" src="https://github.com/user-attachments/assets/ae57559a-d922-4bbd-9230-dd938db7adb7" />
 
-<img width="800" alt="图片" title="Figure 12" src="https://github.com/user-attachments/assets/3107e65f-52b1-49a0-8eef-27f861934c70" />
+<img width="800" alt="图片" title="Figure 12" src="https://github.com/user-attachments/assets/2afbbfe0-f3b9-43a1-a2bb-47e3247c0b0d" />
 
-<img width="800" alt="图片" title="Figure 13" src="https://github.com/user-attachments/assets/b6bf4ed7-53f0-4ec9-bcbe-cf1176141edf" />
+<img width="800" alt="图片" title="Figure 13" src="https://github.com/user-attachments/assets/99a79d3f-10b4-42de-a696-b5234ff005ce" />
 
 <img width="800" alt="图片14" title="Figure 14" src="https://github.com/user-attachments/assets/31e074ea-9af9-45be-a93f-b97420249e3f" />
 
@@ -67,12 +67,6 @@
 <img width="800" alt="图片" title="Figure 29" src="https://github.com/user-attachments/assets/0cb304ca-ac13-4820-89f6-49931f108e5e" />
 
 <img width="800" alt="图片" title="Figure 30" src="https://github.com/user-attachments/assets/8ef0cb99-032e-4a24-8b91-61d868dd3b19" />
-
-<img width="800" alt="图片" title="Figure 23" src="https://github.com/user-attachments/assets/99a79d3f-10b4-42de-a696-b5234ff005ce" />
-
-
-
-
 
 ---
 
