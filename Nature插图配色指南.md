@@ -1,7 +1,7 @@
 在 Nature 及其子刊（Nature Portfolio）的官网上，并没有一份单一的“调色盘”文件，但其对插图配色的要求非常明确且严格，
 主要遵循无障碍设计（Accessibility）、可辨识性和科学诚信三大原则。
 
-官方路径： 访问 (Nature Research Figure Guide)[https://research-figure-guide.nature.com/]
+官方路径： 访问 [Nature Research Figure Guide](https://research-figure-guide.nature.com/)
 
 <img width="2557" height="1348" alt="图片" src="https://github.com/user-attachments/assets/265510ed-d4fc-47b0-abf6-abbb4214621d" />
 
