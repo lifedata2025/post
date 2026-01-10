@@ -47,4 +47,4 @@
 
 ***另外，色盲友好色请参考：https://mp.weixin.qq.com/s/MfmebbTsFswuVh95OyumWA***
 
-***                      https://mp.weixin.qq.com/s/ac_XWAiLlsGO4QQAHWSR8w***
+***https://mp.weixin.qq.com/s/ac_XWAiLlsGO4QQAHWSR8w***
