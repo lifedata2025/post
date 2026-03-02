@@ -68,6 +68,9 @@
 
 <img width="800" alt="图片" title="Figure 30" src="https://github.com/user-attachments/assets/8ef0cb99-032e-4a24-8b91-61d868dd3b19" />
 
+<img width="800" alt="图片" title="Figure 31" src="https://github.com/user-attachments/assets/94250ccc-38ee-42bc-bd3d-ace32eb6c6b2" />
+
+
 ---
 
 **我们长期承接各类 AI(Adobe Illustrator) 科研绘图服务，欢迎联系：lifedata@qq.com。**
